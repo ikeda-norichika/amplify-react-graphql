@@ -1,4 +1,5 @@
-import { StrictMode } from 'react'
+import '@aws-amplify/ui-react/styles.css';
+import { ThemeProvider } from '@aws-amplify/ui-react';
 import { createRoot } from 'react-dom/client'
 import { Amplify } from "aws-amplify"
 import App from './App.tsx'
@@ -17,7 +18,7 @@ Amplify.configure({
 })
 
 createRoot(document.getElementById('root')!).render(
-  <StrictMode>
+  <ThemeProvider>
     <App />
-  </StrictMode>,
+  </ThemeProvider>,
 )
