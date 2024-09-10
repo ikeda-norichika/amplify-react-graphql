@@ -1,0 +1,26 @@
+{
+  "main": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifyreactgraphql-main-75651-authRole",
+      "UnauthRoleArn": "arn:aws:iam::014498653290:role/amplify-amplifyreactgraphql-main-75651-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::014498653290:role/amplify-amplifyreactgraphql-main-75651-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-amplifyreactgraphql-main-75651-deployment",
+      "UnauthRoleName": "amplify-amplifyreactgraphql-main-75651-unauthRole",
+      "StackName": "amplify-amplifyreactgraphql-main-75651",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:014498653290:stack/amplify-amplifyreactgraphql-main-75651/13293940-6e81-11ef-a888-06672f66db41",
+      "AmplifyAppId": "d2n2stvnm1iosl"
+    },
+    "categories": {
+      "auth": {
+        "amplifyreactgraphql3c447dc6": {}
+      },
+      "api": {
+        "amplifyreactgraphql": {}
+      },
+      "storage": {
+        "s314caa1b4": {}
+      }
+    }
+  }
+}
