@@ -1,2 +1,2 @@
-export { default as TodoCreateForm } from "./TodoCreateForm";
-export { default as TodoUpdateForm } from "./TodoUpdateForm";
+export { default as NoteCreateForm } from "./NoteCreateForm";
+export { default as NoteUpdateForm } from "./NoteUpdateForm";
